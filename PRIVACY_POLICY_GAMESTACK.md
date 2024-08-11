@@ -1,6 +1,6 @@
 ## Game Stack: Privacy policy
 
-Welcome to the Shake Alarm Clock app for Android!
+Welcome to the Game Stack for Android!
 
 This is an Closed source Android app developed by D3D Studios.
 
